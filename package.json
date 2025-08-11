@@ -30,7 +30,7 @@
   "devDependencies": {
     "agentkeepalive": "^3.1.0",
     "chai": "^3.5.0",
-    "eslint": "^4.9.0",
+    "eslint": "^9.33.0",
     "eslint-config-conversio": "^1.0.4",
     "mocha": "^6.1.4",
     "nock": "^10.0.1",
