@@ -29,3 +29,4 @@ node_modules
 
 # Sublime project files
 node-bigcommerce.sublime-*
+.idea
